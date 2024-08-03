@@ -33,7 +33,7 @@ on:
         type: boolean
       upload_artifact:
         description: "Upload Artifact"
-        default: false
+        default: true
         required: false
         type: boolean
 
